@@ -8,7 +8,7 @@
 
 This time no story, no theory. The examples below show you how to write function accum:
 
-### Examples
+Examples:
 
 ```javascript
 accum("abcd") -> "A-Bb-Ccc-Dddd"

@@ -76,3 +76,7 @@ describe("separateTypes", function () {
   });
 });
 ```
+
+---
+
+[See on CodeWars.com](https://www.codewars.com/kata/60113ded99cef9000e309be3)
