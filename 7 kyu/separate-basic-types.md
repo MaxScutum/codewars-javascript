@@ -1,4 +1,4 @@
-# CodeWars JavaScript Solutions 7 kyu
+# CodeWars JavaScript Solutions 7 kyu JavaScript.
 
 ---
 
