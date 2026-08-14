@@ -4,7 +4,7 @@
 
 ## Separate basic types
 
-### Description
+Description:
 
 Given: a sequence of different type of values (number, string, boolean). You should return an object with a separate properties for each of types presented in input. Each property should contain an array of corresponding values.
 
