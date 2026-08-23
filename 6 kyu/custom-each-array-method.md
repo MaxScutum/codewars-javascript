@@ -47,8 +47,8 @@ Array.prototype.each = function (callback, thisArg) {
 
   for (let i = 0; i <= array.length - 1; i++) {
     if (array.hasOwnProperty(i)) {
-      const souldStop = callback.call(thisArg, array[i], i, array);
-      if (souldStop === true) {
+      const shouldStop = callback.call(thisArg, array[i], i, array);
+      if (shouldStop === true) {
         break;
       }
     }
